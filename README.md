@@ -1,4 +1,4 @@
-# CCA-Team
+# AI Course Generator
 Zentrixel
 # AI Course Generator with Quiz System
 
